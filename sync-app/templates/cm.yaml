@@ -4,6 +4,6 @@ metadata:
   name: game-config-env-file
   namespace: default
 data:
-  allowed: '"true"'
+  allowed: '"false"'
   enemies: aliens
-  lives: "3"
+  lives: "4"
